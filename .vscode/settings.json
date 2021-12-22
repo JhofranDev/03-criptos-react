@@ -8,6 +8,7 @@
     "Elige",
     "Estados",
     "Esterlina",
+    "Funciones",
     "imagen",
     "Imagen",
     "instante",
@@ -15,8 +16,11 @@
     "moneda",
     "Monedas",
     "nombre",
+    "obligatorios",
     "opcion",
     "respuesta",
-    "Unidos"
+    "Todos",
+    "Unidos",
+    "validaciones"
   ]
 }
