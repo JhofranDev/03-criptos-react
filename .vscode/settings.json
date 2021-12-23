@@ -1,5 +1,10 @@
 {
   "cSpell.words": [
+    "Actualización",
+    "bajo",
+    "cargando",
+    "Cargando",
+    "CHANGEPCT",
     "consultar",
     "Cotiza",
     "Cripto",
@@ -9,18 +14,28 @@
     "Estados",
     "Esterlina",
     "Funciones",
+    "HIGHDAY",
     "imagen",
     "Imagen",
+    "IMAGEURL",
     "instante",
+    "LASTUDATE",
+    "LASTUPDATE",
+    "LOWDAY",
     "Mexicano",
     "moneda",
     "Monedas",
     "nombre",
     "obligatorios",
     "opcion",
+    "precio",
+    "Precio",
     "respuesta",
     "Todos",
+    "Última",
+    "últimas",
     "Unidos",
-    "validaciones"
+    "validaciones",
+    "Variación"
   ]
 }
